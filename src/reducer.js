@@ -1,3 +1,4 @@
+// src/reducer.js
 import { combineReducers } from "redux";
 import catsReducer from "./features/cats/catsSlice";
 

@@ -1,3 +1,5 @@
+// src/store.js
+// src/store.js
 import { configureStore } from "@reduxjs/toolkit";
 
 import catsReducer from "./features/cats/catsSlice";
